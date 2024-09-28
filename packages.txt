@@ -1,0 +1,8 @@
+1;ABCD;Bandarban;Regular;7;5000.0;Internal
+2;XYZX;Cox's Bazar;Premium;3;3000.0;Internal
+3;MNOP;Sajek;Offer;2;2000.0;Internal
+4;UVWX;Srimangal;Offer;3;2500.0;Internal
+5;GHIJ;Sundarban;Offer;7;7500.0;Internal
+6;STUV;Sylhet;Offer;3;3500.0;Internal
+7;EFGH;St. Martin;Offer;3;4000.0;Internal
+8;IJKL;Bandarban;Premium;3;3000.0;Internal
